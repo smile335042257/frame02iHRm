@@ -1,0 +1,8 @@
+2019-11-12 10:29:28,074 INFO [root] [app.py(<module>:66)] - hello
+2019-11-12 10:58:00,718 INFO [root] [app.py(<module>:75)] - hello
+2019-11-12 10:58:00,951 WARNING [root] [test_iHRM_Emp.py(test_add:27)] - 新增员工信息
+2019-11-12 10:58:00,951 WARNING [root] [test_iHRM_Emp.py(test_add:27)] - 新增员工信息
+2019-11-12 10:58:00,978 INFO [root] [test_iHRM_Emp.py(test_update:53)] - 修改员工信息
+2019-11-12 10:58:00,978 INFO [root] [test_iHRM_Emp.py(test_update:53)] - 修改员工信息
+2019-11-12 11:00:19,554 WARNING [root] [test_iHRM_Emp.py(test_add:27)] - 新增员工信息
+2019-11-12 11:00:19,591 INFO [root] [test_iHRM_Emp.py(test_update:53)] - 修改员工信息
